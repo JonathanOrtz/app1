@@ -1,0 +1,4 @@
+Props:
+    - we use props to use reusable components
+    - its name is properties o propiedades
+    - we use props to change some elements of the components that have to be used for differents 
